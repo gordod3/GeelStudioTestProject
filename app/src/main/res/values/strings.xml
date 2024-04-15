@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Title -->
+    <string name="title_1">Audi R8</string>
+    <string name="title_2">Audi A1</string>
+    <string name="title_3">Citroën</string>
+    <string name="title_4">Audi RS3</string>
+    <string name="title_5">Audi A3</string>
+    <string name="title_6">Audi S3</string>
+    <string name="title_7">Audi A7</string>
+    <!-- Year -->
+    <string name="year_1">2015</string>
+    <string name="year_2">2017</string>
+    <string name="year_3">2020</string>
+    <string name="year_4">2018</string>
+    <string name="year_5">2018</string>
+    <string name="year_6">2017</string>
+    <string name="year_7">2019</string>
+</resources>
